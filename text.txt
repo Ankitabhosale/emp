@@ -3,3 +3,10 @@ steps:
 1) create a website for all  emps
 2) each emp all around will store the accounting information in it.
 3) create a neccessary web in which all the data can be stored and can be accessesd directly through the web
+
+
+Functional requirments:
+ internet web site is for customers to know the employee details.
+
+ Non Functional requirments:
+  Want to use google cloud platforms for building and hosting information about employees. To access this they need the Cloud platform or aws.
