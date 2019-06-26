@@ -1,4 +1,4 @@
-There is a mnc , having their offices all around.
+###There is a mnc , having their offices all around.
 steps:
 1) create a website for all  emps
 2) each emp all around will store the accounting information in it.
@@ -8,5 +8,6 @@ steps:
 Functional requirments:
  internet web site is for customers to know the employee details.
 
- Non Functional requirments:
-  Want to use google cloud platforms for building and hosting information about employees. To access this they need the Cloud platform or aws.
+Non Functional requirments:
+  Want to use google cloud platforms for building and hosting information about employees. 
+To access this they need the Cloud platform or AWS

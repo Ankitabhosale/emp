@@ -11,6 +11,7 @@ var details=
 {OfficeId:2,Location:"Pune", Name: "Sayali", product:"technical support",Account:"Current"},
 {OfficeId:3,Location:"Mumbai",  Name: "Megha", product:"hardware", Account:"Saving"},
 {OfficeId:4,Location:"Chennai", Name: "Harshada", product:"BPO", Account:"Current"},
+{OfficeId:5,Location:"TN", Name: "Shweta", product:"Testing", Account:"Current"},
 ];
 res.send(details);
 };
